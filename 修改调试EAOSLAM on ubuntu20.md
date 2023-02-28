@@ -7,7 +7,7 @@
 
 
 运行环境：ubuntu20.04，opencv=3.4.16 pangolin=v0.5
-
+eigen3.4.0运行会报错！！！！！！
 
 
 EAO-SLAM/Thirdparty/Line3Dpp/serialization.h
